@@ -1,0 +1,11 @@
+[Protocol]
+exec=SmartGreenCoin-qt '%u'
+protocol=SmartGreenCoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

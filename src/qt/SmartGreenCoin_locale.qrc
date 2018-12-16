@@ -1,0 +1,29 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/SmartGreenCoin_bg.qm</file>
+        <file alias="ca">locale/SmartGreenCoin_ca.qm</file>
+        <file alias="cs">locale/SmartGreenCoin_cs.qm</file>
+        <file alias="da">locale/SmartGreenCoin_da.qm</file>
+        <file alias="de">locale/SmartGreenCoin_de.qm</file>
+        <file alias="en">locale/SmartGreenCoin_en.qm</file>
+        <file alias="en_US">locale/SmartGreenCoin_en_US.qm</file>
+        <file alias="es">locale/SmartGreenCoin_es.qm</file>
+        <file alias="fi">locale/SmartGreenCoin_fi.qm</file>
+        <file alias="fr_FR">locale/SmartGreenCoin_fr_FR.qm</file>
+        <file alias="it">locale/SmartGreenCoin_it.qm</file>
+        <file alias="ja">locale/SmartGreenCoin_ja.qm</file>
+        <file alias="ko_KR">locale/SmartGreenCoin_ko_KR.qm</file>
+        <file alias="nl">locale/SmartGreenCoin_nl.qm</file>
+        <file alias="pl">locale/SmartGreenCoin_pl.qm</file>
+        <file alias="pt">locale/SmartGreenCoin_pt.qm</file>
+        <file alias="pt_BR">locale/SmartGreenCoin_pt_BR.qm</file>
+        <file alias="ro_RO">locale/SmartGreenCoin_ro_RO.qm</file>
+        <file alias="ru">locale/SmartGreenCoin_ru.qm</file>
+        <file alias="sk">locale/SmartGreenCoin_sk.qm</file>
+        <file alias="sv">locale/SmartGreenCoin_sv.qm</file>
+        <file alias="tr">locale/SmartGreenCoin_tr.qm</file>
+        <file alias="uk">locale/SmartGreenCoin_uk.qm</file>
+        <file alias="zh_CN">locale/SmartGreenCoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/SmartGreenCoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

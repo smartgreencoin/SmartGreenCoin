@@ -1,0 +1,26 @@
+# /etc/conf.d/SmartGreenCoind: config file for /etc/init.d/SmartGreenCoind
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/SmartGreenCoin/SmartGreenCoin.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/SmartGreenCoind"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/SmartGreenCoind.pid"
+
+# Where to write SmartGreenCoind data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/SmartGreenCoind"
+
+# User and group to own SmartGreenCoind process
+#BITCOIND_USER="SmartGreenCoin"
+#BITCOIND_GROUP="SmartGreenCoin"
+
+# Path to SmartGreenCoind executable
+#BITCOIND_BIN="/usr/bin/SmartGreenCoind"
+
+# Nice value to run SmartGreenCoind under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

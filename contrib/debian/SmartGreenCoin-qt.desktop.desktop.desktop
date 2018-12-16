@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=SmartGreenCoin
+Comment=SmartGreenCoin P2P Cryptocurrency
+Exec=SmartGreenCoin-qt %u
+Terminal=false
+Type=Application
+Icon=SmartGreenCoin128
+MimeType=x-scheme-handler/SmartGreenCoin;
+Categories=Office;Finance;
+Name[ru]=SmartGreenCoin-qt.desktop.desktop
